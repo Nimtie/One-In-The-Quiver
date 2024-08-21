@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OneInTheQuiver:jar">
+    <output-path>$PROJECT_DIR$/../../../Minecraft Testing Server/plugins</output-path>
+    <root id="archive" name="OneInTheQuiver.jar">
+      <element id="module-output" name="OneInTheQuiver" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spigot-api-1.20.6-R0.1-20240613.150924-57-shaded.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
